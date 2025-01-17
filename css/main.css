@@ -12,6 +12,7 @@ body{
     font-size: 16px;
     text-align:center;
     z-index:999;
+    transition: .3s;
 }
 .skip_nav a:focus,.skip_nav a:active{
     top:0;
